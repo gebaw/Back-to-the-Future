@@ -13,7 +13,7 @@ All the codes are tested in the following environment:
 
 a. Clone the PointRCNN repository.
 ```shell
-git clone --recursive https://github.com/ctu-vras/Back-to-the-Future.git
+git clone --recursive https://github.com/gebaw/Back-to-the-Future.git
 ```
 If you forget to add the `--recursive` parameter, just run the following command to clone the `Pointnet2.PyTorch` submodule.
 ```shell
